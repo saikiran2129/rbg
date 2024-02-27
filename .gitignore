@@ -11,3 +11,4 @@ log4jLogs/
 /.classpath
 /.settings/*
 
+/bin/
