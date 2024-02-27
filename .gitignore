@@ -1,0 +1,13 @@
+/target/
+.idea/
+LiveViewTech.iml
+Screenshots/
+log4jLogs/
+logs/
+testReports/
+test-output/*
+LiveViewTech.iml
+log4jLogs/
+/.classpath
+/.settings/*
+
